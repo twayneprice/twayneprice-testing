@@ -8,10 +8,6 @@ c
 cccc
 
 
-
-
-
-
 do
 {
 	/* code */
